@@ -8,8 +8,3 @@ class Rectangle:
 
     def aire(self):
         return self.largeur * self.longueur
- 
- perimetre1 = perimetre ("36", 30)
-
-
-perimetre1.afficher_informations()
